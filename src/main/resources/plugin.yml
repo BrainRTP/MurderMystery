@@ -1,0 +1,6 @@
+name: MurderMystery
+version: ${project.version}
+main: ru.brainrtp.murdermystery.Main
+authors: [BrainRTP]
+description: Opisanie
+website: vk.com/brainrtp
